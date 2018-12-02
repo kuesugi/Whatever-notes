@@ -3,3 +3,4 @@
 - Sublime Tricks
 - Scrapy
 - Mac
+- iTerm2
