@@ -1,4 +1,4 @@
-### Cmds:
+### Cmds 命令:
 
 `which` - 显示命令位置：
 
@@ -16,6 +16,6 @@
 
 `tree` - 显示文件树
 
-### Basic of vim:
+### Basic of vim vim的基本使用:
 
 [Reference](blog.csdn.net/weixin_38208741/article/details/78862368)
