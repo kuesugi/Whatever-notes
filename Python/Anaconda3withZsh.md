@@ -4,5 +4,6 @@
 4. Go to ~ dir
 5. `st ./.zshrc`
 6. Add `export PATH="/Users/kyle/anaconda3/bin:$PATH"`
-7. Save and restart iTerm2
+7. Save and `source ./.zshrc`
+9. Close and restart iTerm2
 8. `conda` now should work
