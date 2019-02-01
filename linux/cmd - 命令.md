@@ -16,6 +16,11 @@
 
 `tree` - 显示文件树
 
+有空格的文件需要用引号包裹起来：
+
+`ls -l "space war.txt"`
+
+
 ### Basic of vim vim的基本使用:
 
 [Reference](blog.csdn.net/weixin_38208741/article/details/78862368)
