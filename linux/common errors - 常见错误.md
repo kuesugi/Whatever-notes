@@ -1,0 +1,3 @@
+1. Could no get lock /var/lib/dpkg/lock - open ...
+  - ps aux | grep -i apt
+  - kill the process _apt
