@@ -4,3 +4,6 @@
 - Scrapy
 - Mac
 - iTerm2
+- Python
+- Linux
+- Penn DL
