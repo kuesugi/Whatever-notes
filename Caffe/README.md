@@ -148,6 +148,6 @@
 
 	- https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md
 
-- #### Floydhub 的 dockerfile (包含众多流行的机器学习 深度学习的库)
+- #### 发现了一个新奇的东西: Floydhub 的 dockerfile (包含众多流行的机器学习 深度学习的库)
 
 	- https://github.com/floydhub/dl-docker
