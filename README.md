@@ -7,3 +7,4 @@
 - Python
 - Linux
 - Penn DL
+- Caffe (Installation is torture)
