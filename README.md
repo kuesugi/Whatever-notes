@@ -7,4 +7,4 @@
 - Python
 - Linux
 - Penn DL
-- Caffe (Installation is torture)
+- Caffe (`Installation is torture =(`)
