@@ -721,6 +721,10 @@ body {
 .post-content pre code {
   line-height: 175%;
 }
+/*
+  Larger font sizes and line heights
+  字体和行高 更大
+*/
 .post-content h1 {
   color: #333333;
   margin-top: 20px;
@@ -1003,13 +1007,13 @@ code {
   h1-h3的code字体对应
 */
 h1 code {
-  font-size: 23px;
+  font-size: 25px;
 }
 h2 code {
-  font-size: 20px;
+  font-size: 23px;
 }
 h3 code {
-  font-size: 18px;
+  font-size: 20px;
 }
 /*
   Smaller letter spacing in code
@@ -1287,7 +1291,7 @@ pre .javascript .function {
     and the article
     左侧文章导航与文章间距更大
   */
-  padding-right: 95px;
+  padding-right: 65px;
   width: 240px;
 }
 .toc-article::-webkit-scrollbar {
